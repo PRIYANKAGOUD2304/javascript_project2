@@ -1,2 +1,2 @@
 # javascript_project2
-project name: ccurrencyconvertor
+project name: currencyconvertor
